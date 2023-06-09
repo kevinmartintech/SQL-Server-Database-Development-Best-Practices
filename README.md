@@ -1,5 +1,7 @@
 # Overview
-A novella size of SQL Server database best practices, all for free. Use the table of contents icon next to the "README.md" text above to navigate to each section or type in a word to filter the text.
+A novella size of SQL Server database best practices, all for free. 
+
+Use the table of contents icon next to the "README.md" text above to navigate to each section or type in a word to filter the text.
 
 # Naming Conventions
 
