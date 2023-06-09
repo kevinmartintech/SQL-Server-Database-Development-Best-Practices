@@ -1,5 +1,5 @@
 # Overview
-Use the table of contents icon to navigate to each section.
+A novella size of SQL Server database best practices, all for free. Use the table of contents icon to navigate to each section. 
 
 # Naming Conventions
 
