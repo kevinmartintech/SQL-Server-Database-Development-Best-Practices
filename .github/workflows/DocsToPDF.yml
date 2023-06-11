@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: '/docs/**.md'
+          input_dir: '../../docs/**.md'
           output_dir: pdfs
           table_of_contents: true
           # images_dir: '/images'
